@@ -54,9 +54,9 @@ Etapas del Análisis
 
 ---
 
-## ▶️ Cómo Ejecutar el Notebook
+Cómo Ejecutar el Notebook
 
-### Opción 1: Google Colab (Recomendado)
+Opción 1: Google Colab (Recomendado)
 1. Ve a: https://colab.research.google.com/
 2. Haz clic en **"Subir"**
 3. Selecciona el archivo:
@@ -65,6 +65,6 @@ Etapas del Análisis
 
 ---
 
-### Opción 2: Jupyter Notebook (Local)
+Opción 2: Jupyter Notebook (Local)
 1. Instala dependencias:
 2. pandas numpy matplotlib seaborn
