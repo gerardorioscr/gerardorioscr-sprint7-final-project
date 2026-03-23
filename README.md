@@ -52,7 +52,6 @@ Etapas del Análisis
 - Análisis de outliers y su impacto
 - Recomendaciones para el negocio
 
----
 
 Cómo Ejecutar el Notebook
 
@@ -63,8 +62,10 @@ Opción 1: Google Colab (Recomendado)
 4. 4. Asegúrate de subir también los datasets en la misma sesión
 5. Ejecuta las celdas en orden
 
----
 
 Opción 2: Jupyter Notebook (Local)
 1. Instala dependencias:
 2. pandas numpy matplotlib seaborn
+3. Abre Jupyter Notebook:
+4. Abre el archivo .ipynb
+5. Ejecuta todas las celdas en orden
